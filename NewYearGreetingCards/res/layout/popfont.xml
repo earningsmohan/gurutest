@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <HorizontalScrollView
+        android:id="@+id/ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/font1"
+        android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:padding="3dp"
+        android:layout_height="wrap_content"
+        android:text="Today" />
+
+    <TextView
+        android:id="@+id/font2"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cowboys" />
+
+    <TextView
+        android:id="@+id/font3"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Panhead" />
+
+    <TextView
+        android:id="@+id/font4"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Swinsbrg" />
+    
+     <TextView
+        android:id="@+id/font5"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chunq" />
+     
+     <TextView
+        android:id="@+id/font6"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="text_kiss" />
+     <TextView
+        android:id="@+id/font7"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="loves_you" />
+     <TextView
+        android:id="@+id/font8"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="loveness" />
+     <TextView
+        android:id="@+id/font9"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sevillana" />
+     <TextView
+        android:id="@+id/font10"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wedgie" />
+     
+     <TextView
+        android:id="@+id/font11"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="look_up" />
+     <TextView
+        android:id="@+id/font12"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Holy_union" />
+     
+     <TextView
+        android:id="@+id/font13"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yank_text" />
+     <TextView
+        android:id="@+id/font14"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="At_sign" />
+     
+     <TextView
+        android:id="@+id/font15"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Barbarian" />
+     <TextView
+        android:id="@+id/font16"
+        android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:padding="3dp"
+        android:layout_height="wrap_content"
+        android:text="Brick" />
+
+    <TextView
+        android:id="@+id/font17"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="christmaseve" />
+
+    <TextView
+        android:id="@+id/font18"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Christmas_light" />
+
+    <TextView
+        android:id="@+id/font19"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fancy_Tattoo" />
+    
+     <TextView
+        android:id="@+id/font20"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ka_blamo" />
+     
+     <TextView
+        android:id="@+id/font21"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="King_Needles" />
+     <TextView
+        android:id="@+id/font22"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wild_line" />
+     <TextView
+        android:id="@+id/font23"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Overhaul" />
+     <TextView
+        android:id="@+id/font24"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Power" />
+     <TextView
+        android:id="@+id/font25"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Raven_Claws" />
+     <TextView
+        android:id="@+id/font26"
+        android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:padding="3dp"
+        android:layout_height="wrap_content"
+        android:text="Regal_Demise" />
+
+    <TextView
+        android:id="@+id/font27"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reynolds" />
+
+    <TextView
+        android:id="@+id/font28"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shine_on" />
+
+    <TextView
+        android:id="@+id/font29"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="slope_ness" />
+    
+     <TextView
+        android:id="@+id/font30"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stick_letters" />
+     
+     <TextView
+        android:id="@+id/font31"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uechi_gothic" />
+     <TextView
+        android:id="@+id/font32"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uechgi_italic" />
+     <TextView
+        android:id="@+id/font33"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Urban_slick" />
+     <TextView
+        android:id="@+id/font34"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="vnyltle" />
+     <TextView
+        android:id="@+id/font35"
+         android:padding="3dp"
+         android:background="@drawable/backg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voodoo-vampire" />
+     
+     
+     </LinearLayout>
+</HorizontalScrollView>
+</LinearLayout>
